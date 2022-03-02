@@ -18,4 +18,4 @@ Support shitc0ver.dev development by giving your money to us, today on our Bitco
 
 
 
-# This is a parody of unc0ver, created by Ava, CallMeEcho and hmuy. We are in no way affiliated with the jailbreaking tool, unc0ver.
+# This is a parody of unc0ver, created by Sillysock, CallMeEcho and hmuy. We are in no way affiliated with the jailbreaking tool, unc0ver.
